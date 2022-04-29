@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    margin: 2rem 4rem;
+}
+
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: .8rem;
+}
+
+article {
+    margin: 5rem 4rem;
+    
+}
+
+
+
+#image-1{
+    width: 400px;
+    height: 400px;
+}
+
+#image-2{
+    width: 400px;
+    height: 400px;
+}
+
